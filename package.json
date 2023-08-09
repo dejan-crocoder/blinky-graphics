@@ -1,0 +1,17 @@
+{
+  "name": "blinky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.0",
+    "@types/node": "^20.4.5",
+    "ts-node": "^10.9.1"
+  }
+}
